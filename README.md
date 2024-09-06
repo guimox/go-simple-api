@@ -1,3 +1,1 @@
 # go-simple-api
-
-testing
